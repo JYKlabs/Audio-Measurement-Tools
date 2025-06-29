@@ -62,9 +62,9 @@ The tool provides a graphical interface with the following measurement functiona
 - Notes: Graph saving is only available after generating the graph by clicking the Graph tab. No explicit low-pass or high-pass filters are applied; the response is derived from a logarithmic sweep signal processed with a Hann window and FFT, with the upper limit naturally constrained by the Nyquist frequency.
 
 ## Important Note
-Graphs can only be saved after generating them by clicking the Graph tab.
-Ensure you generate the graph first before attempting to save.
-This code has been verified to run on macOS Sequoia with Python 3.13.1. Compatibility with earlier versions or Windows systems is not guaranteed.
+- Graphs can only be saved after generating them by clicking the Graph tab.
+- Ensure you generate the graph first before attempting to save.
+- This code has been verified to run on macOS Sequoia with Python 3.13.1. Compatibility with earlier versions or Windows systems is not guaranteed.
 
 ## Help Keep This Person Alive
 
