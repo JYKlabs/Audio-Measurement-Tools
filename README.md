@@ -64,6 +64,7 @@ The tool provides a graphical interface with the following measurement functiona
 ## Important Note
 Graphs can only be saved after generating them by clicking the Graph tab.
 Ensure you generate the graph first before attempting to save.
+This code has been verified to run on macOS Sequoia with Python 3.13.1. Compatibility with earlier versions or Windows systems is not guaranteed.
 
 ## Help Keep This Person Alive
 
