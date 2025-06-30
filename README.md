@@ -16,7 +16,11 @@ Install the required packages using pip:
 pip3 install numpy matplotlib sounddevice scipy ttkbootstrap
   ```
 
-## Basic Usage
+# User Interface Example
+
+![Audio Measurement Tool Screenshot](Audio%20Measurement%20Tool%20Screenshot.png)
+
+# Basic Usage
 The tool provides a graphical interface with the following measurement functionalities:
 
 1. Select Input & Output Device to select Main Input/Output Channels
@@ -66,7 +70,7 @@ The tool provides a graphical interface with the following measurement functiona
 - Ensure you generate the graph first before attempting to save.
 - This code has been verified to run on macOS Sequoia with Python 3.13.1. Compatibility with earlier versions or Windows systems is not guaranteed.
 
-## Help Keep This Person Alive
+# Help Keep This Person Alive
 
 Your donation helps cover hosting and keeps the content (blog posts & projects) coming.  
 Thank you for your support!
@@ -75,7 +79,7 @@ Thank you for your support!
   <img src="https://img.shields.io/badge/Support-Now-blue?style=for-the-badge&logo=paypal" alt="Support Now via PayPal" />
 </a>
 
-## License
+# License
 Custom MIT License - Non-Commercial Use Only
 Copyright (c) 2025 Jooyoung Kim
 
@@ -87,7 +91,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-## Additional Usage Notes
+# Additional Usage Notes
 This software was developed as part of a research project for an academic paper.
 If this tool is used for academic purposes, particularly after the paper's publication, please cite the following work:
 
@@ -99,7 +103,7 @@ If this tool is used for academic purposes, particularly after the paper's publi
 - Citation is required to acknowledge the original research contribution.
 - For the citation details, please refer to the published paper once available.
 
-## Non-Commercial Restriction
+# Non-Commercial Restriction
 This license explicitly prohibits any commercial use of the Software.
 Use is restricted to non-commercial, educational, or personal purposes only.
 Any commercial exploitation, including but not limited to selling the Software or incorporating it into a commercial product, is strictly forbidden without explicit written permission from the copyright holder.
