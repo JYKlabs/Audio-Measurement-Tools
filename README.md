@@ -96,10 +96,11 @@ This software was developed as part of a research project for an academic paper.
 If this tool is used for academic purposes, particularly after the paper's publication, please cite the following work:
 
 - Author: Jooyoung Kim
-- Title: [Not Published Yet]
-- Journal/Conference: [Not Published Yet]
-- Year: [Not Published Yet]
-- DOI: [Not Published Yet]
+- Title: [High-Definition Multimedia Interface 2.1b Cables for Analog Multichannel Audio: Objective and Subjective Analysis]
+- Journal: [Journal of the Audio Engineering Society]
+- Year: [2026]
+- Month: [Sep]
+- DOI: [[10.17743/jaes.2026.0287](https://doi.org/10.17743/jaes.2026.0287)]
 - Citation is required to acknowledge the original research contribution.
 - For the citation details, please refer to the published paper once available.
 
